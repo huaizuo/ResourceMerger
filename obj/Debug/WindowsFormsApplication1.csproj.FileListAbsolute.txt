@@ -1,0 +1,12 @@
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\bin\Debug\Yahoo.Yui.Compressor.NET20.dll
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\bin\Debug\EcmaScript.NET.modified.dll
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\bin\Debug\Iesi.Collections.dll
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\bin\Debug\静态压缩.exe.config
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\bin\Debug\静态压缩.exe
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\bin\Debug\静态压缩.pdb
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\obj\Debug\静态压缩.exe
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\obj\Debug\静态压缩.pdb
+E:\study\js请求压缩\WebApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
